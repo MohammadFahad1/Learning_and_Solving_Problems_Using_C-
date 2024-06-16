@@ -1,3 +1,1 @@
-10
-Hello World
-20
+10 F
