@@ -1,6 +1,1 @@
-5
-Fahad 11 99
-Rifat 16 88
-Akib 6 88
-Salman 28 90
-Rittik 35 77
+madam
